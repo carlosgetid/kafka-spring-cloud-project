@@ -1,0 +1,3 @@
+{"name": "Ana", "age": 25, "gender": "female"}
+{"name": "Bob", "age": 27, "gender": "male"}
+{"name": "Carlos", "age": 20, "gender": "male"}
